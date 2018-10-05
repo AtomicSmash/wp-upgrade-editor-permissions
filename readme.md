@@ -1,12 +1,12 @@
 # Upgrade editor permissions
 
-Add these extra permissions to WordPress editors:
+This plugin only needs to be activated and run once to apply the correct updates. The plugin can be removed after activation.
 
-- Add and edit gravity forms
+These extra permissions are added to WordPress editors:
+
+- Edit gravity forms
 - Edit theme options
-- And and edit menus
-
-This plugin needs only to be activated and run once to apply the correct updates. It then can be removed.
+- Edit menus
 
 ## Setup
 
